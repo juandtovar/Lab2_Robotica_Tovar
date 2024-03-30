@@ -1,7 +1,10 @@
 # Lab2_Robotica_Tovar
-***Se realizó de manera individual tanto las simulaciones, como el programa en sl software de EPSON como las pruebas experimentales por lo que se entrega individuamente***.
+***Se realizó de manera individual tanto las simulaciones, como el programa en el software de EPSON como las pruebas experimentales por lo que se entrega individuamente***.
 
 ## Índice
+## Índice
+1. [Contenido del Repositorio](#contenido-repositorio)
+2. [Solución](#solución)
 
 ## Contenido repositorio
  - El archivo comprimido _Lab2_VT6.rar_ contiene los archivos correspondientes del software EPSON RC+ 7.0.
