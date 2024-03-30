@@ -2,7 +2,6 @@
 ***Se realizó de manera individual tanto las simulaciones, como el programa en el software de EPSON como las pruebas experimentales por lo que se entrega individuamente***.
 
 ## Índice
-## Índice
 1. [Contenido del Repositorio](#contenido-repositorio)
 2. [Solución](#solución)
 
